@@ -1,6 +1,6 @@
 # Server To Server Offer API For Publisher
 
-Endpoint: https://api.mygo-free.com/v1/aff/offers?app_id=265b244af438f5833ce0a25fc45a6532&os=ios&page_size=10&page=1
+Endpoint: https://api.mygo-free.com/v1/aff/offers
 
 
 ## Request Parameter
