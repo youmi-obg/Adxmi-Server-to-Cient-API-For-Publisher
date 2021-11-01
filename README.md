@@ -13,7 +13,8 @@ Endpoint: https://api.mygo-free.com/v1/aff/offers
 | page        | int    | N | Define which page to fetch, starting from 1      |
 | gaid        | string    | Y | Android gaid. Required when os is android      |
 | andid       | string    | Y | Android andid, Required when os is android      |
-| thirdparty_id       | string    | Y | thirdparty id      |
+| thirdparty_id       | string    | N | thirdparty id      |
+| country       | string    | N | Filter offer by target country. when it is empty, the country where the IP is located will be used  |
 
 ## Response Parameter of an Offer
 
