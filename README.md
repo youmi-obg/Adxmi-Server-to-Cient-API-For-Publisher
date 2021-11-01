@@ -14,7 +14,7 @@ Endpoint: https://api.mygo-free.com/v1/aff/offers
 | gaid        | string    | Y | Android gaid. Required when os is android      |
 | andid       | string    | Y | Android andid, Required when os is android      |
 | thirdparty_id       | string    | N | thirdparty id      |
-| country       | string    | N | Filter offer by target country. when it is empty, the country where the IP is located will be used  |
+| country       | string    | N | Filter offer by target country. When it is empty, the country where the IP is located will be used  |
 
 ## Response Parameter of an Offer
 
